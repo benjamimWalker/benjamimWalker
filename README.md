@@ -2,10 +2,10 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi there, I'm Benjamim </h1>
 
-Back-end focused in PHP and Laravel | Software engineer :robot:
+Back-end dev focused in PHP and Laravel | Software engineer :robot:
 </br>
 </br>
-Lover of Technology and coding :heart:
+Lover of technology and coding :heart:
 
 ## About me 
 
